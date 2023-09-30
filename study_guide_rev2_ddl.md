@@ -100,8 +100,10 @@
 
 ![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/PMOS_transistor.png?raw=true)
 *A PMOS (P-channel Metal-Oxide-Semiconductor) transistor is a semiconductor device used in electronics. It controls electrical current flow based on the voltage applied to its gate. It is positively charged.*
+<p align="center">
+  <img src="https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/PNP_transistor.png?raw=true" />
+</p>
 
-![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/PNP_transistor.png?raw=true)
 *When a positive voltage is applied to its base terminal, it allows current to flow from its emitter to collector terminals. PNP transistors are used in amplifiers, switches, and logic circuits.*
 
 ![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/NPN_Transistor.png?raw=true)
@@ -113,6 +115,7 @@
 ![LED](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/LED.png?raw=true)
 *In logic circuits, LEDs are primarily used for visual indication. They represent logic states (0 or 1), display gate outputs, signal errors, aid in debugging, show timing, and serve as user interface elements or light sources for data communication. In its simplest form, it is often used in homebrewed 8-bit or 4-bit computers to represent register shifts (shifts in logic at a defined memory address).* 
 **Check out Ben Eater!** ![Ben Eater](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+
 
 ## Key Terms
 
@@ -126,4 +129,6 @@
 | Output               | Signal that is received from a logic gate.      |
 | Logic                | The process of performing logical operations.   |
 
+# More Specific logic gates are in the other markdown found here! 
+![More Logic!](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/logic_gates_galore.md)
 
