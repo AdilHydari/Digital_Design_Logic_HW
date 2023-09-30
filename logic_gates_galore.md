@@ -32,3 +32,4 @@ The 74LS series is a family of logic gates, originally developed by Texas Instru
 ### 74LS181: 4-Bit Arithmetic Logic Unit (ALU)
 ![74LS181](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/74ls181.png)
 ## The 6502!
+![6502](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/6502.png)
