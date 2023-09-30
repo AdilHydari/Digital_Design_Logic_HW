@@ -95,6 +95,12 @@
 ![Capacitor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/Capacitor.png?raw=true)
 *A capacitor is an electronic component that stores and releases electrical energy. It consists of two conductive plates separated by an insulating material called a dielectric. Capacitors are used in various applications to store charge, filter signals, and control electrical circuits.*
 
+![Diode](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/Diode.png?raw=true)
+*A diode is a semiconductor device that allows electric current to flow in one direction while blocking it in the other. It is used in electronics for tasks like converting AC to DC, voltage regulation, signal clipping, and protection against reverse current or voltage.*
+
+![Op-Amp](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/op_amp.png?raw=true)
+*Op-amps are high-gain DC amplifiers that magnify the voltage difference between their inputs. Their output voltage is significantly larger than the input. Op-amps find extensive use in analog electronics for tasks such as voltage amplification, signal filtering, and performing mathematical operations like addition and subtraction and prove to be fundemental building blocks for digital logic.*
+
 ![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/Dual_NMOS_transistor.png?raw=true)
 *An NMOS (N-channel Metal-Oxide-Semiconductor) transistor is a semiconductor device that controls the flow of electrical current in electronic circuits. Applying a voltage to the gate terminal allows or blocks the flow of current between the source and drain terminals. It is negatively charged.*
 
@@ -131,4 +137,3 @@
 
 # More Specific logic gates are in the other markdown found here! 
 ![More Logic!](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/logic_gates_galore.md)
-
