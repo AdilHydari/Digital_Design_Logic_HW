@@ -40,14 +40,6 @@
 | Prefixes (k, M, G, T, m, μ, n, p) | Multipliers for measurement units.        |
 | Power Dissipation           | Rate at which energy is converted into heat.   |
 
-## Key Questions
-
-### Electronic Components Overview
-
-- **What are the fundamental passive electronic components discussed in the lecture notes?**
-- **Can you name the basic units used in electronics and provide their respective symbols?**
-- **Explain how prefixes like kilo and micro are applied in electronic measurements.**
-- **What are the key equations associated with voltage across a resistor and power dissipation?**
 
 ## Section 2: Electrical Energy
 
@@ -92,7 +84,35 @@
   - Logic Elements and thier schematics.
   - Logic Elements and their applications. 
 
-![alt text](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/74ls32.png?raw=true)
+### Some Examples of Logic Gates
+![74LS32](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/74ls32.png?raw=true)
+*The 74LS32 is a Dual Input OR Gate with a quad 2-input pins. It contains four independent gates each of which performs the logic OR function.*
+
+### All basic/crucial logic elements
+![Resistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/Resistor_Kicad.png?raw=true)
+*This resistor is the international symbol (IEC 60617). A resistor is an electronic component that limits the flow of electrical current in a circuit. It's measured in ohms (Ω) and is essential for controlling current, voltage division, and various functions in electronics.*
+
+![Capacitor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/Capacitor.png?raw=true)
+*A capacitor is an electronic component that stores and releases electrical energy. It consists of two conductive plates separated by an insulating material called a dielectric. Capacitors are used in various applications to store charge, filter signals, and control electrical circuits.*
+
+![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/Dual_NMOS_transistor.png?raw=true)
+*An NMOS (N-channel Metal-Oxide-Semiconductor) transistor is a semiconductor device that controls the flow of electrical current in electronic circuits. Applying a voltage to the gate terminal allows or blocks the flow of current between the source and drain terminals. It is negatively charged.*
+
+![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/PMOS_transistor.png?raw=true)
+*A PMOS (P-channel Metal-Oxide-Semiconductor) transistor is a semiconductor device used in electronics. It controls electrical current flow based on the voltage applied to its gate. It is positively charged.*
+
+![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/PNP_transistor.png?raw=true)
+*When a positive voltage is applied to its base terminal, it allows current to flow from its emitter to collector terminals. PNP transistors are used in amplifiers, switches, and logic circuits.*
+
+![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/NPN_Transistor.png?raw=true)
+*When a small current is applied to the base terminal (usually with a positive voltage relative to the emitter), it allows a larger current to flow from the emitter to the collector. NPN transistors are commonly used in amplifiers, switches, and digital logic circuits.*
+
+![Transistor](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/BJT_transistor.png?raw=true)
+*Another form of a BJT transistor, in its negative form.*
+
+![LED](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/LED.png?raw=true)
+*In logic circuits, LEDs are primarily used for visual indication. They represent logic states (0 or 1), display gate outputs, signal errors, aid in debugging, show timing, and serve as user interface elements or light sources for data communication. In its simplest form, it is often used in homebrewed 8-bit or 4-bit computers to represent register shifts (shifts in logic at a defined memory address).* 
+**Check out Ben Eater!** ![Ben Eater](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 
 ## Key Terms
 
