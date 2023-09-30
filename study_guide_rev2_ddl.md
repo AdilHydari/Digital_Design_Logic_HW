@@ -49,38 +49,32 @@
 - **Explain how prefixes like kilo and micro are applied in electronic measurements.**
 - **What are the key equations associated with voltage across a resistor and power dissipation?**
 
-## Section 2: Electrical Energy and Danger
+## Section 2: Electrical Energy
 
 ### 2.1 Understanding Electrical Energy
 
-- **Objective**: Relate electrical energy to real-world examples.
+- **Objective**: Relate electrical energy in mathimatical form.
 - **Content**:
-  - Analogies comparing electrical energy to everyday objects, e.g., car energy, tank round energy, capacitor energy.
-
-### 2.2 Electrical Danger
-
-- **Objective**: Recognize causes of electrical harm and practice safety precautions.
-- **Content**:
-  - Identification of potential dangers associated with electricity.
-  - Explanation of the importance of understanding voltage and current in electrical safety.
+  - Equations for Voltage, Impedance, Capacitance, Power, Resistance, and Inductance.
+    - Voltage = (Current * Resistance)
+    - Voltage = Inductance*(di/dv)
+    - Current = Capacitance*(dv/dt)
+    - Power = Voltage * Current
+    - Impedance = Voltage / Current
 
 ## Key Terms
 
 | Term                | Definition                                       |
 |---------------------|--------------------------------------------------|
 | Electrical Energy   | Energy carried by electrical currents.           |
-| Capacitor Energy    | Amount of energy stored in a capacitor.          |
-| Electrical Danger   | Potential harm caused by electrical accidents.   |
-| Voltage             | Electrical potential difference in a circuit.    |
+| Voltage             | Difference in electrical potential.              |
+| Current             | Flow of electrical charge.                       |
+| Resistance          | Resistance of a circuit.                         |
+| Capacitance         | Capacity of a circuit.                           |
+| Inductance          | Inductive reactance of a circuit.                |
+| Power               | Rate of energy transfer.                         |
+| Impedance           | Ratio of voltage to current.                     |
 | Current             | Flow of electric charge in a circuit.            |
-
-## Key Questions
-
-### Electrical Energy and Danger
-
-- **How can you relate electrical energy to everyday objects, such as a moving car?**
-- **What are the potential dangers associated with electricity, and how can they be mitigated?**
-- **Why is it crucial to differentiate between voltage and current when assessing electrical risk?**
 
 ## Section 3: Logic Elements and Logic Gates
 
@@ -95,7 +89,9 @@
 
 - **Objective**: Learn about the power requirements for logic gates.
 - **Content**:
-  - Logic Elements 
+  - Logic Elements and thier schematics.
+  - Logic Elements and their applications. 
+  ![]https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/72ls32.png
 
 ## Key Terms
 
@@ -105,13 +101,8 @@
 | 74LS Series Chips    | Series of logic chips with specific functions.   |
 | Vcc                  | Supply voltage for logic gates.                |
 | Ground               | Reference point for voltage in circuits.       |
+| Input                | Signal that is sent to a logic gate.            |
+| Output               | Signal that is received from a logic gate.      |
+| Logic                | The process of performing logical operations.   |
 
-## Key Questions
 
-### Chips and Logic Gates
-
-- **What are logic gates, and why are they essential in electronics?**
-- **What are the power supply requirements for logic gates in the 74LS series?**
-- **Can you identify the key functions of the 74LS04, 74LS08, and 74LS32 logic chips?**
-
-_End of Study Guide_
