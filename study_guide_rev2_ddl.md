@@ -92,7 +92,7 @@
   - Logic Elements and thier schematics.
   - Logic Elements and their applications. 
 
-![alt text]https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/72ls32.png
+![alt text](https://github.com/AdilHydari/Digital_Design_Logic_HW/blob/master/image_source/74ls32.png?raw=true)
 
 ## Key Terms
 
